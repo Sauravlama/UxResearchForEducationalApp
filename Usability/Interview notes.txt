@@ -1,0 +1,4 @@
+1. Feels confused with the login via google and sign up via google
+2. When wanted to sign up using google the option was no where to be found
+3. felt comfortable using the interface
+4. Wanted a back button when inside a lesson
